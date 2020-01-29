@@ -1,0 +1,33 @@
+{
+  "name": "find-color-in-format-hex-abc-or-hex-abcdef",
+  "version": "1.0.0",
+  "description": "Javascript.info task \"Find color in the format #abc or #abcdef\" solution",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/find-color-in-format-hex-abc-or-hex-abcdef.git"
+  },
+  "keywords": [
+    "javascript.info-task",
+    "javascript.info",
+    "task",
+    "regexp",
+    "capturing-groups",
+    "hex-colors"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/find-color-in-format-hex-abc-or-hex-abcdef/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/find-color-in-format-hex-abc-or-hex-abcdef#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
